@@ -1,8 +1,4 @@
 # Proton-reanimation 
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
--- MAX GODMODE + CURRENTANGLE + FE-REANIMATOR-V3 + FE HEADLESS + MOTOR6D + ANTI-FALL + GUI
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
