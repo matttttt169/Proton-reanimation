@@ -450,4 +450,6 @@ end)
 
 print("=== GODMODE + MOTOR6D + CURRENTANGLE + FE-REANIM + FE HEADLESS ===")
 print("Motor6D joints locked (RootJoint, Neck, Shoulders, Hips)")
-print("Drag GUI | Click to reanimate")
+print("Drag GUI | Click to reanimate") 
+
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/matttttt169/Proton-reanimation/main/module.luau"))()
